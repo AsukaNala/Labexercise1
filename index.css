@@ -1,0 +1,33 @@
+header {
+  height: 80px;
+  border-bottom: 1px solid #000;
+
+}
+
+.dice-buttons {
+  width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+
+}
+
+#rollResult {
+  height: 30px;
+  width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px dashed #000;
+  margin-top: 20px;
+  text-align: center;
+  padding: 6px;
+  font-weight: bold;
+
+}
+
+.text-button {
+  margin-top: 30px;
+  width: 80px;
+  margin-right: auto;
+  margin-left: auto;
+}
