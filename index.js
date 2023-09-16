@@ -7,9 +7,9 @@ function rollTheDice(faces) {
 
 function testRollTheDice() {
   let success = false;
-  const sixROll = rollTheDice(6);
+  const sixRoll = rollTheDice(6);
   if (sixRoll >=1 && sixRoll <= 6) success = true;
   const tenRoll = rollTheDice(10);
-  if (tenRoll >=1 &&  tenRoll <=10) success = true;
+  if (tenRoll >=1 &&  tenRoll <= 10) success = true;
   alert(success);
 }
